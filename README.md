@@ -2,15 +2,22 @@ Link del conjunto de datos utilizado en el proyecto:
 https://drive.google.com/file/d/1E1FCwOLL6I88InuuQQqcxsLIhsQXdkWg/view?usp=sharing
 
 # Titulo del Proyecto
-Una pequeña descripción sobre su proyecto. Responder lo siguiente: ¿Qué hace el proyecto? ¿De que se trata? ¿Qué componentes tiene?
+CONTENEDORES INTERACTIVOS PARA RECICLAJE CON VISION ARTIFICIAL
+¿Qué hace el proyecto? 
+El proyecto tiene la finalidad de mejorar e incentivar los habitos de reciclaje y conciencia ambiental en los ciudadanos
+¿De que se trata? 
 
+¿Qué componentes tiene?
+Componente Hardware: es el área donde se detecta el residuo
+Componente Software: 
 (Agregar esta sección en el caso de que el proyecto este compuesto por varios repositorios)
 
 # BOOTCAMP
 Proyecto final del BOOTCAMP de visión artificial orientado a los ODS
 
 # Motivación
-Una breve descripción de la motivación detrás del proyecto. Responder lo siguiente: ¿por qué existe el proyecto? ¿Qué problema soluciona el proyecto?
+En ciudades de paises en vias de desarrollo como La Paz y El Alto todavia existe una deficiente clasificación de los residuos, por los ciudadanos, a pesar de las iniciativas ambientales de reciclaje (como las islas verdes), por lo que en las esquinas de las calles se observa gran acumulación de residuos que pueden ser aprovechables y reutilizables.
+Con la gran variedad de materiales, el ciudadano que tiene el habito de reciclar tambien puede confundirse en como realizar un correcta clasificación de su residuo, por lo que tambien se convierte en una problematica a resolver.
 
 # Capturas de pantalla
 Se incluye una captura de pantalla de la interface del proyecto, el cual se encarga de tomar fotos y crear el DATASET:
@@ -26,6 +33,7 @@ Se incluye una captura de pantalla de la interface de visualización del proyect
 - PI OS BULLSEYE
 - TensorFlow Lite
 - Java Script
+- Python3
 - Broker Mosquitto
 - OpenCV
 - Numpy
