@@ -17,6 +17,10 @@ Se incluye una captura de pantalla de la interface del proyecto, el cual se enca
 
 ![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/main/Imagen5.png?raw=true)
 
+Se incluye una captura de pantalla de la interface de visualización del proyecto, el cual se encarga de mostrar el resultado de clasificación y las imagenes en tiempo real:
+
+![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/main/Imagen4.png?raw=true)
+
 # Tecnologías/Frameworks utilizados
 Ejemplo) - ESP32
 
