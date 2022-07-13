@@ -1,6 +1,3 @@
-Link del conjunto de datos utilizado en el proyecto:
-https://drive.google.com/file/d/1E1FCwOLL6I88InuuQQqcxsLIhsQXdkWg/view?usp=sharing
-
 # CONTENEDORES INTERACTIVOS PARA RECICLAJE CON VISION ARTIFICIAL
 Proyecto final del BOOTCAMP de visión artificial orientado a los ODS 11 (Ciudades y comunidades sostenibles), ODS 12 (Producción y consumo responsables) y ODS 17 (Alianzas para lograr los objetivos).
 
@@ -35,6 +32,9 @@ Se incluye una captura de pantalla de la interface de visualización del proyect
 - Broker Mosquitto
 - OpenCV
 - Numpy
+
+Link del conjunto de datos utilizado en el proyecto:
+https://drive.google.com/file/d/1E1FCwOLL6I88InuuQQqcxsLIhsQXdkWg/view?usp=sharing
 
 # Funcionalidades mas importantes
 las funcionalidades mas interesantes de tu proyecto son:
@@ -77,6 +77,12 @@ Se muestra tambien las metricas F1-SCORE y RECALL en la siguiente imagen:
 ![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/main/Imagen3.png?raw=true)
 
 Por ultimo se calcula la metrica LOG-LOSS SCORE: 0.12, y la presicion del modelo alcanza: 95.3%
+
+# Trabajos Relacionados
+
+# Métodos
+
+# Resultados Experimentales
 
 # Creditos
 - Cesar Huanca
