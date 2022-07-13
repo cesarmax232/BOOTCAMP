@@ -1,10 +1,27 @@
 # BOOTCAMP
 Proyecto final del BOOTCAMP de visión artificial aplicado a los ODS
 
+Link del conjunto de datos utilizado en el proyecto:
+https://drive.google.com/file/d/1E1FCwOLL6I88InuuQQqcxsLIhsQXdkWg/view?usp=sharing
+
 # Funcionalidades mas importantes
 las funcionalidades mas interesantes de tu proyecto son:
+ - Permite clasificar residuos de tipo plastico, papel y carton. Si el objeto o residuo no pertenece a ninguno de los anteriores entonces se lo clasifica a un contenedor general.
+ - Posee clasificación automatica con detección de movimiento mediante tecnicas clasicas de vision artificial.
+ - La inferencia se realiza en la misma placa Raspberry donde se ejecuta todo el codigo incluido la interfaz WEB.
+ - Se aplica tecnicas vistas en el BOOTCAMP para mejorar las imagenes tomadas por la camara y que la iluminación del ambiente no afecte demasiado a la clasificación.
+ - La interfaz WEB muestra la imagen en tiempo real de la camara sin procesar, otra imagen en tiempo real del resultado del algoritmo de detección de movimiento y otra imagen que muestra la imagen procesada y mejorada la cual es usada para la clasificación. En la misma interfaz se muestran circulos luminosos los cuales indican a cual contenedor se debe depositar el residuo. 
 
 # Hiperparametros
+
+train_data -> batch_size=54
+validation_data -> batch_size=9
+test_data -> batch_size=9
+loss -> categorical_crossentropy
+optimizer -> adam
+epochs -> 10
+steps_per_epoch -> 6
+validation_steps -> 6
 
 # Metricas y Resultados
 
@@ -20,8 +37,7 @@ Se muestra tambien las metricas F1-SCORE y RECALL en la siguiente imagen:
 
 ![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/main/Imagen3.png?raw=true)
 
-Por ultimo se calcula la metrica LOG-LOSS SCORE: 0.12
-La presicion del modelo alcanza: 95.3%
+Por ultimo se calcula la metrica LOG-LOSS SCORE: 0.12, y la presicion del modelo alcanza: 95.3%
 
 # Creditos
 - Cesar Huanca
