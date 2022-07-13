@@ -83,9 +83,23 @@ Por ultimo se calcula la metrica LOG-LOSS SCORE: 0.12, y la presicion del modelo
 # Métodos
 En la siguiente imagen se muestran las etapas y el enfoque utilizado para resolver la problematica:
 
+- La primera etapa es crear el dataset y para esto se desarrolla una interfaz para capturar y guardar las imagenes.
+- Con el dataset creado se pasa a la etapa de entrenamiento, esto se realiza en COLAB con GPU.
+- Reentrenando el modelo hasta conseguir resultados aceptables, se pasa a exportar el modelo al formato TFLITE.
+- El modelo TFLITE y el codigo de despliegue se implementan en la Raspberry.
+- Se pasa a la etapa de funcionamiento donde se implementa el algoritmo de detección de movimiento y procesamiento para mejorar y acondicionar la imagen de la camara de la Raspberry.
+- La ultima etapa conlleva el desarrollo de una interfaz WEB para visualizar los resultados de clasificación.   
+
 ![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/main/Imagen6.PNG?raw=true)
 
 # Resultados Experimentales
+En la etapa de clasificación se realizó pruebas con diferentes plasticos, papeles y cartones de forma satisfactoria con las metricas descritas anteriormente. Estas pruebas se realizan en tiempo real y en condiciones reales con diferente iluminación ambiente.
+
+Al momento de realizar la clasificación notamos que se tiene inconvenientes en ciertos residuos. ejemplo: objetos metalicos cubiertos con papel o papeles forrados con plastico. Esto se podria solucionar adicionanado sensores electronicos para detectar el material del residuo.
+
+La detección de movimiento funciona correctamente siempre y cuando la luz ambiente o ruido exterior no provoquen falsos positivos. Para mitigar los efectos del ruido o cambios de luminosidad se decidió instalar iluminación LED propia dentro el área de detección.
+
+El modelo utilizado es Mobilenet ya que no tiene inconvenientes al momento de exportar al formato TFLITE como sucedió con el modelo EFFICIENTNET
 
 # Creditos
 - Cesar Huanca
