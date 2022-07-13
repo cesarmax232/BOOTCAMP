@@ -1,6 +1,9 @@
 # BOOTCAMP
 Proyecto final del BOOTCAMP de visión artificial aplicado a los ODS
 
+# Funcionalidades mas importantes
+las funcionalidades mas interesantes de tu proyecto son:
+
 # Hiperparametros
 
 # Metricas y Resultados
@@ -16,6 +19,9 @@ La matriz de confusion en la siguiente imagen señala que 14 instancias no fuero
 Se muestra tambien las metricas F1-SCORE y RECALL en la siguiente imagen:
 
 ![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/main/Imagen3.png?raw=true)
+
+Por ultimo se calcula la metrica LOG-LOSS SCORE: 0.12
+La presicion del modelo alcanza: 95.3%
 
 # Creditos
 - Cesar Huanca
