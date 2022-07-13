@@ -81,6 +81,9 @@ Por ultimo se calcula la metrica LOG-LOSS SCORE: 0.12, y la presicion del modelo
 # Trabajos Relacionados
 
 # Métodos
+En la siguiente imagen se muestran las etapas y el enfoque utilizado para resolver la problematica:
+
+![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/main/Imagen6.png?raw=true)
 
 # Resultados Experimentales
 
