@@ -17,6 +17,7 @@ Proyecto final del BOOTCAMP de visión artificial orientado a los ODS
 
 # Motivación
 En ciudades de paises en vias de desarrollo como La Paz y El Alto todavia existe una deficiente clasificación de los residuos, por los ciudadanos, a pesar de las iniciativas ambientales de reciclaje (como las islas verdes), por lo que en las esquinas de las calles se observa gran acumulación de residuos que pueden ser aprovechables y reutilizables.
+
 Con la gran variedad de materiales, el ciudadano que tiene el habito de reciclar tambien puede confundirse en como realizar un correcta clasificación de su residuo, por lo que tambien se convierte en una problematica a resolver.
 
 # Capturas de pantalla
