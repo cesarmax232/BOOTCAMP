@@ -4,7 +4,8 @@ Proyecto final del BOOTCAMP de visión artificial aplicado a los ODS
 # Hiperparametros
 
 # Metricas y Resultados
-https://drive.google.com/file/d/1YHYc0ksZ6lDpAO5KokFXzyOKEi7rONGm/view?usp=sharing
+![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/[branch]/image1.png?raw=true)
+
 # Creditos
 - Cesar Huanca
 - Freddy Barrios
