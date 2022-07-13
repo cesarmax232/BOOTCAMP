@@ -3,10 +3,11 @@ https://drive.google.com/file/d/1E1FCwOLL6I88InuuQQqcxsLIhsQXdkWg/view?usp=shari
 
 # Titulo del Proyecto
 CONTENEDORES INTERACTIVOS PARA RECICLAJE CON VISION ARTIFICIAL
-¿Qué hace el proyecto? 
-El proyecto tiene la finalidad de mejorar e incentivar los habitos de reciclaje y conciencia ambiental en los ciudadanos
-¿De que se trata? 
 
+El proyecto tiene la finalidad de mejorar e incentivar los habitos de reciclaje y conciencia ambiental en los ciudadanos.
+
+El funcionamiento comienza cuando el usuario coloca un residuo en el área de detección, el cual por medio de una camara toma una imagen del residuo y mediante Deep Learning realiza la clasificación a uno de los 3 contenedores (Plastico, Papel-Cartón, general). El sistema le avisa al ciudadano en que contenedor debe depositar el residuo.    
+ 
 ¿Qué componentes tiene?
 Componente Hardware: es el área donde se detecta el residuo
 Componente Software: 
