@@ -1,9 +1,7 @@
 Link del conjunto de datos utilizado en el proyecto:
 https://drive.google.com/file/d/1E1FCwOLL6I88InuuQQqcxsLIhsQXdkWg/view?usp=sharing
 
-# Titulo del Proyecto
-CONTENEDORES INTERACTIVOS PARA RECICLAJE CON VISION ARTIFICIAL
-
+# CONTENEDORES INTERACTIVOS PARA RECICLAJE CON VISION ARTIFICIAL
 El proyecto tiene la finalidad de mejorar e incentivar los habitos de reciclaje y conciencia ambiental en los ciudadanos.
 
 El funcionamiento comienza cuando el usuario coloca un residuo en el área de detección, el cual por medio de una camara toma una imagen del residuo y mediante Deep Learning realiza la clasificación a uno de los 3 contenedores (Plastico, Papel-Cartón, general). El sistema le avisa al ciudadano en que contenedor debe depositar el residuo.    
