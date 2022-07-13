@@ -1,8 +1,26 @@
-# BOOTCAMP
-Proyecto final del BOOTCAMP de visión artificial aplicado a los ODS
-
 Link del conjunto de datos utilizado en el proyecto:
 https://drive.google.com/file/d/1E1FCwOLL6I88InuuQQqcxsLIhsQXdkWg/view?usp=sharing
+
+#Titulo del Proyecto
+Una pequeña descripción sobre su proyecto. Responder lo siguiente: ¿Qué hace el proyecto? ¿De que se trata? ¿Qué componentes tiene?
+
+(Agregar esta sección en el caso de que el proyecto este compuesto por varios repositorios)
+
+#BOOTCAMP
+Proyecto final del BOOTCAMP de visión artificial orientado a los ODS
+
+#Motivación
+Una breve descripción de la motivación detrás del proyecto. Responder lo siguiente: ¿por qué existe el proyecto? ¿Qué problema soluciona el proyecto?
+
+#Capturas de pantalla
+Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyecto.
+
+#Tecnologías/Frameworks utilizados
+Ejemplo) - ESP32
+
+Arduino
+Amazon IoT
+Atom
 
 # Funcionalidades mas importantes
 las funcionalidades mas interesantes de tu proyecto son:
