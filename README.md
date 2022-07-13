@@ -6,10 +6,17 @@ Proyecto final del BOOTCAMP de visión artificial aplicado a los ODS
 # Metricas y Resultados
 
 El resultado del entrenamiento se muestra en la siguiente imagen, en donde se observa como converge la perdida y la presicion va en aumento con cada epoca. Se tiene en mismo resultado tanto para los datos de entrenamiento y validación:
+
 ![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/main/Imagen1.png?raw=true)
 
 La matriz de confusion en la siguiente imagen señala que 14 instancias no fueron clasificadas correctamente en los datos de prueba o test:
+
 ![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/main/Imagen2.png?raw=true)
+
+Se muestra tambien las metricas F1-SCORE y RECALL en la siguiente imagen:
+
+![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/main/Imagen3.png?raw=true)
+
 # Creditos
 - Cesar Huanca
 - Freddy Barrios
