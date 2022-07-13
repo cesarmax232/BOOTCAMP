@@ -22,11 +22,13 @@ Se incluye una captura de pantalla de la interface de visualización del proyect
 ![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/main/Imagen4.png?raw=true)
 
 # Tecnologías/Frameworks utilizados
-Ejemplo) - ESP32
-
-Arduino
-Amazon IoT
-Atom
+- Raspberry PI 3B
+- PI OS BULLSEYE
+- TensorFlow Lite
+- Java Script
+- Broker Mosquitto
+- OpenCV
+- Numpy
 
 # Funcionalidades mas importantes
 las funcionalidades mas interesantes de tu proyecto son:
