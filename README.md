@@ -9,6 +9,7 @@ El proyecto tiene la finalidad de mejorar e incentivar los habitos de reciclaje 
 El funcionamiento comienza cuando el usuario coloca un residuo en el área de detección, el cual por medio de una camara toma una imagen del residuo y mediante Deep Learning realiza la clasificación a uno de los 3 contenedores (Plastico, Papel-Cartón, General). El sistema le avisa al ciudadano en que contenedor debe depositar el residuo.    
  
 Componente Hardware: base o área donde se coloca el residuo para su clasificación, conformada por (Raspberry, PICAM, Iluminación Led, Estructura de madera)
+
 Componente Software: Pagina WEB donde se muestra el resultado de clasificación y procesamiento de imagenes.
 
 # Motivación
