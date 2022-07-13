@@ -13,7 +13,9 @@ Proyecto final del BOOTCAMP de visión artificial orientado a los ODS
 Una breve descripción de la motivación detrás del proyecto. Responder lo siguiente: ¿por qué existe el proyecto? ¿Qué problema soluciona el proyecto?
 
 # Capturas de pantalla
-Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyecto.
+Se incluye una captura de pantalla de la interface del proyecto, el cual se encarga de tomar fotos y crear el DATASET:
+
+![alt text](https://github.com/cesarmax232/BOOTCAMP/blob/main/Imagen5.png?raw=true)
 
 # Tecnologías/Frameworks utilizados
 Ejemplo) - ESP32
