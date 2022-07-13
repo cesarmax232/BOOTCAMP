@@ -2,17 +2,14 @@ Link del conjunto de datos utilizado en el proyecto:
 https://drive.google.com/file/d/1E1FCwOLL6I88InuuQQqcxsLIhsQXdkWg/view?usp=sharing
 
 # CONTENEDORES INTERACTIVOS PARA RECICLAJE CON VISION ARTIFICIAL
+Proyecto final del BOOTCAMP de visión artificial orientado a los ODS 11 (Ciudades y comunidades sostenibles), ODS 12 (Producción y consumo responsables) y ODS 17 (Alianzas para lograr los objetivos).
+
 El proyecto tiene la finalidad de mejorar e incentivar los habitos de reciclaje y conciencia ambiental en los ciudadanos.
 
-El funcionamiento comienza cuando el usuario coloca un residuo en el área de detección, el cual por medio de una camara toma una imagen del residuo y mediante Deep Learning realiza la clasificación a uno de los 3 contenedores (Plastico, Papel-Cartón, general). El sistema le avisa al ciudadano en que contenedor debe depositar el residuo.    
+El funcionamiento comienza cuando el usuario coloca un residuo en el área de detección, el cual por medio de una camara toma una imagen del residuo y mediante Deep Learning realiza la clasificación a uno de los 3 contenedores (Plastico, Papel-Cartón, General). El sistema le avisa al ciudadano en que contenedor debe depositar el residuo.    
  
-¿Qué componentes tiene?
-Componente Hardware: es el área donde se detecta el residuo
-Componente Software: 
-(Agregar esta sección en el caso de que el proyecto este compuesto por varios repositorios)
-
-# BOOTCAMP
-Proyecto final del BOOTCAMP de visión artificial orientado a los ODS 11 (Ciudades y comunidades sostenibles), ODS 12 (Producción y consumo responsables) y ODS 17 (Alianzas para lograr los objetivos)
+Componente Hardware: base o área donde se coloca el residuo para su clasificación, conformada por (Raspberry, PICAM, Iluminación Led, Estructura de madera)
+Componente Software: Pagina WEB donde se muestra el resultado de clasificación y procesamiento de imagenes.
 
 # Motivación
 En ciudades de paises en vias de desarrollo como La Paz y El Alto todavia existe una deficiente clasificación de los residuos, por los ciudadanos, a pesar de las iniciativas ambientales de reciclaje (como las islas verdes), por lo que en las esquinas de las calles se observa gran acumulación de residuos que pueden ser aprovechables y reutilizables.
