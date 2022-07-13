@@ -13,7 +13,7 @@ Componente Software:
 (Agregar esta sección en el caso de que el proyecto este compuesto por varios repositorios)
 
 # BOOTCAMP
-Proyecto final del BOOTCAMP de visión artificial orientado a los ODS
+Proyecto final del BOOTCAMP de visión artificial orientado a los ODS 11 (Ciudades y comunidades sostenibles), ODS 12 (Producción y consumo responsables) y ODS 17 (Alianzas para lograr los objetivos)
 
 # Motivación
 En ciudades de paises en vias de desarrollo como La Paz y El Alto todavia existe una deficiente clasificación de los residuos, por los ciudadanos, a pesar de las iniciativas ambientales de reciclaje (como las islas verdes), por lo que en las esquinas de las calles se observa gran acumulación de residuos que pueden ser aprovechables y reutilizables.
@@ -50,12 +50,19 @@ las funcionalidades mas interesantes de tu proyecto son:
 # Hiperparametros
 
 train_data -> batch_size=54
+
 validation_data -> batch_size=9
+
 test_data -> batch_size=9
+
 loss -> categorical_crossentropy
+
 optimizer -> adam
+
 epochs -> 10
+
 steps_per_epoch -> 6
+
 validation_steps -> 6
 
 # Metricas y Resultados
