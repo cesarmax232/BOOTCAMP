@@ -1,3 +1,9 @@
+Link del conjunto de datos utilizado en el proyecto:
+https://drive.google.com/file/d/1E1FCwOLL6I88InuuQQqcxsLIhsQXdkWg/view?usp=sharing
+
+Link del video:
+https://www.canva.com/design/DAFGKOT44nk/G3tJTfMTsxuNX8uYsp6Rgg/watch?utm_content=DAFGKOT44nk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 # CONTENEDORES INTERACTIVOS PARA RECICLAJE CON VISION ARTIFICIAL
 Proyecto final del BOOTCAMP de visión artificial orientado a los ODS 11 (Ciudades y comunidades sostenibles), ODS 12 (Producción y consumo responsables) y ODS 17 (Alianzas para lograr los objetivos).
 
@@ -32,9 +38,6 @@ Se incluye una captura de pantalla de la interface de visualización del proyect
 - Broker Mosquitto
 - OpenCV
 - Numpy
-
-Link del conjunto de datos utilizado en el proyecto:
-https://drive.google.com/file/d/1E1FCwOLL6I88InuuQQqcxsLIhsQXdkWg/view?usp=sharing
 
 # Funcionalidades mas importantes
 las funcionalidades mas interesantes de tu proyecto son:
