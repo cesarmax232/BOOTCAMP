@@ -79,6 +79,22 @@ Se muestra tambien las metricas F1-SCORE y RECALL en la siguiente imagen:
 Por ultimo se calcula la metrica LOG-LOSS SCORE: 0.12, y la presicion del modelo alcanza: 95.3%
 
 # Trabajos Relacionados
+Entre los trabajos más relacionados con el objetivo del proyecto podemos comentar los siguientes:
+- Desarrollo de un contenedor y clasificador automático de material reciclable como estrategia de economía circular en el contexto educativo
+Universidad de la amazonia
+Edna Yahile Salinas Osuna, Jhonier David Anacona Ortiz, Oscar Fabián Patino Perdoho, Edwin Eduardo Hillán Rojas
+Página web: https://www.redalyc.org/journal/852/85269429009/html/ 
+Objetivo. Caracterizar los residuos mediante el desarrollo de un contenedor con un clasificador de plásticos empleando una red neuronal 
+
+- Contenedores de reciclaje interactivos con IoT 
+Universidad autónoma de Occidente
+Daniel Delgado Rodriguez, Juan Fernando Guerrero Figueroa
+Objetivo. Identificación de residuos a través de una red convolucional en ordenador de placa reducida 
+
+- Diseño e Implementación de un Sistema Autónomo de Detección y Clasificación de Residuos 
+Universidad de La Laguna
+Alberto Méndez García, Stefano Fernando Panzeri Reyes
+Objetivo. Identificación de residuos a través de una red neuronal para luego ser empujado al cubo correspondiente del residuo
 
 # Métodos
 En la siguiente imagen se muestran las etapas y el enfoque utilizado para resolver la problematica:
